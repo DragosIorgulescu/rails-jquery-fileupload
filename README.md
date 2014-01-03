@@ -54,6 +54,7 @@ The `jquery.iframe-transport` fallback transport has some special caveats regard
 
 ## Thanks
 Thanks to [Sebastian Tschan](https://github.com/blueimp) for writing an awesome file upload plugin.
+Thanks to [Tors Dalid](https://github.com/tors/jquery-fileupload-rails) for writing the rails gem from which this was based.
 
 ## Versioning
 Since this represents a suite of js files, it is not possible to sync this gem version with the version of the javascript plug-in. I will try and update this periodically and bump the minor and patch versions depending on the updated js plug-ins.
