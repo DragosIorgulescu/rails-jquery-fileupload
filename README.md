@@ -59,7 +59,7 @@ Thanks to [Sebastian Tschan](https://github.com/blueimp) for writing an awesome 
 Since this represents a suite of js files, it is not possible to sync this gem version with the version of the javascript plug-in. I will try and update this periodically and bump the minor and patch versions depending on the updated js plug-ins.
 
 ## License
-Copyright (c) 2012 Tors Dalid
+Copyright (c) 2013 Iorgulescu Dragos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
