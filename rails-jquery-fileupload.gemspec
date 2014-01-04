@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = JQuery::FileUpload::Rails::VERSION
   s.authors     = ["Dragos Iorgulescu"]
   s.email       = ["dragos.m.iorgulescu@gmail.com"]
-  s.homepage    = "https://github.com/tors/jquery-fileupload-rails"
+  s.homepage    = "https://github.com/DragosIorgulescu/rails-jquery-fileupload"
   s.summary     = %q{jQuery File Upload for Rails >= 3.1 Asset Pipeline}
   s.description = %q{jQuery File Upload by Sebastian Tschan integrated for Rails >= 3.1 Asset Pipeline}
 
